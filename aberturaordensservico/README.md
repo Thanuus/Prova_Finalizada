@@ -1,1 +1,1 @@
-![Minha foto](readme.png)
+![Minha foto](readme_atualizada.png)
