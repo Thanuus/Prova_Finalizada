@@ -1,2 +1,1 @@
-![Minha foto](readme.png)
 
